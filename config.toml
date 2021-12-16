@@ -39,9 +39,10 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "portfolio"
   files = [
     ["About", "/about.md"],
-    ["Projects", "https://www.example.com/"],
+    ["Projects", "/projects.md"],
+    ["Experience", "/experience.md"],
     ["Research", "/research.md"],
-    ["Contacts", "/post/some-activity.md"]
+    ["Contacts", "/contacts.md"]
   ]
 
 [module]
