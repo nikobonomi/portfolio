@@ -8,3 +8,11 @@ draft: false
 
 
 # Social media
+
+#### Navigation
+[About]({{< ref "/about" >}} "About")
+[Education]({{< ref "/education" >}} "Education")
+[Experience]({{< ref "/experience" >}} "Experience")
+[Projects]({{< ref "/projects" >}} "Projects")
+[Research]({{< ref "/research" >}} "Research")
+Contacts

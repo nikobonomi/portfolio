@@ -41,6 +41,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["About", "/about.md"],
     ["Projects", "/projects.md"],
     ["Experience", "/experience.md"],
+    ["Education", "/education.md"],
     ["Research", "/research.md"],
     ["Contacts", "/contacts.md"]
   ]

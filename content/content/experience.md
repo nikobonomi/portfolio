@@ -12,12 +12,10 @@ draft: false
 
 ## Researcher
 
-# Education
-
-## High School apprenticeship
-
-## Bachelor of Science (BSc)
-
-## Master of Science (M.Sc.)
-
-# Certifications
+#### Navigation
+[About]({{< ref "/about" >}} "About")
+[Education]({{< ref "/education" >}} "Education")
+Experience
+[Projects]({{< ref "/projects" >}} "Projects")
+[Research]({{< ref "/research" >}} "Research")
+[Contacts]({{< ref "/contacts" >}} "Contacts")

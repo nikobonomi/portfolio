@@ -19,3 +19,11 @@ services directly within the downstream hardware.
 My activities are relative to internal, local (Switzerland) and European projects; where I discuss with the other
 project panthers the best approach in reaching the research goals, more about that here: 
 [Projects]({{< ref "/projects" >}} "Projects").
+
+#### Navigation
+About
+[Education]({{< ref "/education" >}} "Education")
+[Experience]({{< ref "/experience" >}} "Experience")
+[Projects]({{< ref "/projects" >}} "Projects")
+[Research]({{< ref "/research" >}} "Research")
+[Contacts]({{< ref "/contacts" >}} "Contacts")
