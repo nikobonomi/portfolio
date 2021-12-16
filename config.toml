@@ -1,0 +1,50 @@
+baseURL = "https://nikobonomi.dev"
+languageCode = "en-us"
+title = "Niko Bonomi"
+
+ignoreErrors = ["error-remote-getjson"]
+
+[Params]
+  description = "Niko Bonomi's portfolio"
+  [Params.Terminal]
+  scheme = "Molokai"
+
+  # Note: in terminal
+  # [userName]@[pcName]:~/$ cd [workDir]
+  # [userName]@[pcName]:~/[workDir]$ cat [profile]
+  #
+  # [description]
+  #
+  # Note: if you set Params.Tree > use = true
+  # [userName]@[pcName]:~/[workDir]$ tree ./[folderName]/
+  # ./[folderName]/
+  # ...
+  # Note: result of the tree command
+  userName = "guest"
+  pcName = "laptop"
+  workDir = "home/niko"
+  profile = "profile.txt"
+
+  ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+  stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
+  commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+
+  titleDelay = 0 # title speed : "title" in front matter
+  contentDelay = 0 # content speed : content in .md file
+
+  description = "/profile.md"
+
+  [Params.Tree]
+  use = true
+  folderName = "portfolio"
+  files = [
+    ["About", "/about.md"],
+    ["Projects", "https://www.example.com/"],
+    ["Research", "/research.md"],
+    ["Contacts", "/post/some-activity.md"]
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.85.0"
