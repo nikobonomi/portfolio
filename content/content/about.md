@@ -19,9 +19,7 @@ directly within the downstream hardware.
 
 I am daily employed in activities related to local (Switzerland), European and didactic projects. I take part not only
 in software development but also in defining the best approach to fulfil the requirements reaching the set research
-goals. More information about the projects folder are available here: projects.
-
-[Projects]({{< ref "/projects" >}} "Projects").
+goals. More information about the projects folder are available here: [Projects]({{< ref "/projects" >}} "Projects").
 
 #### Navigation
 
