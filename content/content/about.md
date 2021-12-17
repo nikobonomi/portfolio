@@ -1,26 +1,30 @@
 ---
 title: "About"
-date: 2021-12-15T14:40:17+01:00 
-draft: false
+date: 2021-12-15T14:40:17+01:00 d
+raft: false
 ---
 My name is Niko Bonomi, born in 1994 in Lugano, Switzerland.
 
 ![Niko Bonomi](/me.jpeg)
 
-I've spent the last 12+ years working in different areas of software development; developing REST services, responsive
-frontends, industrial machines interfaces and predictive algorithms.
+I’ve spent the last 12+ years working in different areas of software development including responsive frontends,
+developing REST services, industrial machines interfaces and predictive algorithms.
 
-Currently, I'm a Researcher at the University of Applied Sciences and Arts of Southern Switzerland (SUPSI) in the fields
-of Industry 4.0. The research activities mainly consists in developing REST services coupled with a web application
-portal.  
-I have the opportunity to work within the SUPSI Minifactory at the SPS Lab, where I integrate the aforementioned
-services directly within the downstream hardware.
+Currently, I’m a Researcher at the University of Applied Sciences and Arts of Southern Switzerland (SUPSI). The research
+activities mainly consist in developing REST services coupled with web application portals.
 
-My activities are relative to internal, local (Switzerland) and European projects; where I discuss with the other
-project panthers the best approach in reaching the research goals, more about that here: 
+Being part of the team working at SUPSI Mini-Factory, which is a long-term ongoing project within the Institute of
+Systems and Technologies for Sustainable Production, I have the opportunity to integrate the aforementioned services
+directly within the downstream hardware.
+
+I am daily employed in activities related to local (Switzerland), European and didactic projects. I take part not only
+in software development but also in defining the best approach to fulfil the requirements reaching the set research
+goals. More information about the projects folder are available here: projects.
+
 [Projects]({{< ref "/projects" >}} "Projects").
 
 #### Navigation
+
 About
 [Education]({{< ref "/education" >}} "Education")
 [Experience]({{< ref "/experience" >}} "Experience")
