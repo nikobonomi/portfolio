@@ -4,6 +4,8 @@ date: 2021-12-15T14:40:17+01:00
 draft: false
 ---
 
+Here there is a glimpse of my works over the years
+
 ### Reliability analysis tool
 Java - Spring - Javascript - React - Docker - Python
 

@@ -5,9 +5,12 @@ draft: false
 ---
 
 # Contacts
+You can contact me by e-mail at: [niko.bonomi@gmail.com](mailto:niko.bonomi+portfolio@gmail.com)   
 
-
-# Social media
+Find me on some social media platform:
+* [Linkedin](https://www.linkedin.com/in/nikobonomi/)
+* [Google Scholar](https://scholar.google.com/citations?hl=it&user=dsx_h0kAAAAJ)
+* [GitHub](https://github.com/nikobonomi)
 
 #### Navigation
 [About]({{< ref "/about" >}} "About")
