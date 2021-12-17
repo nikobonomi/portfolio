@@ -4,6 +4,9 @@ title = "Niko Bonomi"
 
 ignoreErrors = ["error-remote-getjson"]
 
+theme = ["hugo-theme-shell"]
+
+
 [Params]
   description = "Niko Bonomi's portfolio"
   [Params.Terminal]
