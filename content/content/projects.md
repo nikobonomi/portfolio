@@ -7,7 +7,7 @@ draft: false
 Here there is a glimpse of my works over the years
 
 ### Reliability analysis tool
-Java - Spring - Javascript - React - Docker - Python
+Java - SpringBoot - Javascript - React - Docker - Python
 
 In the scope of a european project ([Reclaim](https://www.reclaim-project.eu/ "Reclaim")) I had to build a tool, the 
 reliability analysis tool, that help the production line management in estimating failures of components by estimating
@@ -22,7 +22,7 @@ React. All the services are containerized and deployed together.
 {{< figure src="/projects/rat.png" link="/projects/rat.png" width="100%" target="_blank">}}
 
 ### iDA Platform
-Java - Spring - Javascript - React - Docker
+Java - SpringBoot - Javascript - React - Docker
 
 In the context of an InnoSuisse project, in which the main implementation partner was InterrollSA, I have developed a 
 data gathering platform. The data are gathered from various machines in the quality department. I had to develop a Java
@@ -37,7 +37,7 @@ application has been containerized with docker.
 
 ### Sketch your pain
 
-Java - Spring - Javascript - React - Docker
+Java - SpringBoot - Javascript - React - Docker
 
 The sketch your pain research platform allows to sample the pain-drawings of patients. Process them and extract some
 useful information such as a pain frequency map. This project is composed by different services, I personally developed
@@ -51,7 +51,7 @@ All the services are containerized, and I deployed the whole application on an U
 
 ### Centralized access map
 
-Java - Spring - Javascript - Bootstrap
+Java - SpringBoot - Javascript - Bootstrap
 
 In the context of my Bachelor thesis, I had to develop a platform able to manage the users access right on the legacy
 services. I thus developed a Java REST service using Spring, the database of choice was MongoDB. The frontend has been
@@ -66,7 +66,7 @@ attached under the image.
 [Download documentation](/projects/thesis.pdf "Thesis")
 
 ### Legolab
-Java - Spring - Javascript - React - Docker
+Java - SpringBoot - Javascript - React - Docker
 
 The Legolab is a didactic platform which digitalizes a production environment, it supports both kanban and assembly to
 order methodologies. The main objective is to teach how a real-world factory works by implementing a small assembly
