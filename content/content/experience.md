@@ -14,8 +14,8 @@ Here I started to work with experts in the sector using the last technologies av
 ground-up, software platforms that are required in the development of local and international projects.
 
 My lines of research are "smart automation" and "Human-centered smart production", I'm active in a variety of projects
-ranging from the internals to the europeans ones. Some of my publications are listed here: [Research]({{< ref "
-/research" >}} "Research").
+ranging from the internals to the europeans ones. Some of my publications are listed here: 
+[Research]({{< ref "/research" >}} "Research").
 
 ## Software developer
 
