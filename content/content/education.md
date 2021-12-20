@@ -4,6 +4,16 @@ date: 2021-12-15T14:40:17+01:00
 draft: false
 ---
 
+## Master of Science (MSc)
+
+In the 2019 I started a Master of Science in engineering with the specialization in Internet Of Things. Similarly to the
+Bachelor I'm currently following the Master in parallel to a professional employment, right now working at an occupation
+of 100%
+
+As for now (2022) I just need to finish my master thesis, which is consist of building an Asset Administration Shell
+that keep an eye on the worker, de facto embracing the human in the loop paradigm.
+
+
 ## Bachelor of Science (BSc)
 
 In 2014 I started the Bachelor of Science in computer science at the University of Applied Sciences and Arts of Southern
@@ -16,15 +26,6 @@ I was employed for the 80% of the time and attended the courses in two evenings 
 
 The Bachelor thesis consisted in a Java platform that orchestrate all the IT access in the various applications of my
 employer, coupled with a javascript web application. This work has been graded 5.7.
-
-## Master of Science (MSc)
-
-In the 2019 I started a Master of Science in engineering with the specialization in Internet Of Things. Similarly to the
-Bachelor I'm currently following the Master in parallel to a professional employment, right now working at an occupation
-of 100%
-
-As for now (2022) I just need to finish my master thesis, which is consist of building an Asset Administration Shell
-that keep an eye on the worker, de facto embracing the human in the loop paradigm.
 
 ## High School apprenticeship
 
