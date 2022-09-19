@@ -10,7 +10,7 @@ In the 2019 I started a Master of Science in engineering with the specialization
 Bachelor I'm currently following the Master in parallel to a professional employment, right now working at an occupation
 of 100%
 
-As for now (2022) I just need to finish my master thesis, which is consist of building an Asset Administration Shell
+The Master thesis is consisted in building an Asset Administration Shell
 that keep an eye on the worker, de facto embracing the human in the loop paradigm.
 
 
